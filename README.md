@@ -1,6 +1,14 @@
-![Alt Text](https://i.imgur.com/ZGFfXTj.gif)
-![Alt Text](https://i.imgur.com/Cpevaus.gif)
-![Alt Text](https://media.boingboing.net/wp-content/uploads/2016/03/o281ZB.gif)
+----------
+What it looks like:
+----------
+![Alt Text](bg.png?raw=true "will")
+----------
+Gifs made with bind: (to see vids go to /r/deepdreamvideo)
+----------
+
+![Alt Text](https://media.giphy.com/media/3oFzmnlg0UXEgkNGh2/giphy.gif)
+![Alt Text](https://media.giphy.com/media/xULW8CulD7x86n4Hdu/giphy.gif)
+![Alt Text](https://media.giphy.com/media/3oFzmf2YjR0CskBB1m/giphy.gif)
 
 
 -----------
@@ -17,6 +25,7 @@ ffmpeg (brew install ffmpeg, or apt-get install ffmpeg)
 
 ffprobe
 
+wget
 
 python3 
 
@@ -45,6 +54,9 @@ LTC:
 BTC:
 18sNAfQL9ZzPAnyjdxDPMKhkapKEi73eTv
 
+Venmo:
+https://venmo.com/Tim-Bone
+
 ------------------
 Join, Debug, Follow, Apply, Like,:
 ------------------
@@ -69,11 +81,19 @@ https://github.com/Microsoft/vscode-go
 Roadmap
 ------
 √ Clear steps to reproducible builds for any computer.
+
 √ Make deep dreaming accessible as art
+
 √ Explore creative approaches to using ML in art
 
+
 -------------
+Wishlist
+-------------
+• A tool that helps people install tensorflow-gpu for macs
+
+
 License
 -------------
 
-MIT 2017 Dreamly Team 
+MIT 2017  Tim Bone
