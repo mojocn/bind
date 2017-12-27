@@ -136,16 +136,4 @@ Roadmap
 Danke
 ------------------
 
-my (encrypted) email address: ∂®´åµ¬¥†´åµ™©µåˆ¬≥çøµ 
- 
-LTC:
- Lfoa64kkZS9gDihVA9PEQY46NjUvhZBs9p
-
-BTC:
-16bfdgzL5st8bVPGV2JCerkgSAMXNuciEE
-
-BCH:
-18tvu2tf6ZcFKEFDP26Q5gBmNa5d62q9jM
-
-Venmo:
-https://venmo.com/Tim-Bone
+https://twitter.com/timboneyo
